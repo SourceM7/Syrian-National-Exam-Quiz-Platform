@@ -1,0 +1,3 @@
+# Syrian-National-Exam-Quiz-Platform
+
+The Syrian National Exam Quiz Platform is a comprehensive educational resource designed to empower Syrian students in their preparation for the national examination. This platform includes a wide range of quizzes and study materials covering various subjects relevant to the national exam, which are applicable across numerous colleges participating in or mandated by the national exam system. The goal is to provide students with the necessary support to excel in their academic endeavors and achieve success in the national exam.
