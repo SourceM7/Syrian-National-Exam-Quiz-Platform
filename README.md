@@ -86,13 +86,6 @@ A Laravel API quiz platform for creating and managing interactive quizzes.
    ```
 
 
-## Docker Environment
-
-The application is containerized with Docker and includes:
-
-- **app**: PHP 8.1 with FPM for running the Laravel application
-- **web**: Nginx server for handling HTTP requests
-- **db**: MySQL 5.7 database server
 
 ## API Routes
 
